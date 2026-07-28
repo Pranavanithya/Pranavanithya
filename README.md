@@ -38,7 +38,7 @@ AI • Machine Learning • Deep Learning • Generative AI
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,pytorch,docker,git,github,vscode,linux,aws,firebase,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,docker,git,github,aws" />
 </p>
 
 <p align="center">
