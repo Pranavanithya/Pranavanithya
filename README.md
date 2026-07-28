@@ -89,24 +89,13 @@ AI • Machine Learning • Deep Learning • Generative AI
 </p>
 ---
 
-## 💡 Coding Profiles
-
-<p align="center">
-
-<a href="mailto:pranavanithyatamilselvan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="www.linkedin.com/in/pranavanithya-tamilselvan"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/Pranavanithya"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
