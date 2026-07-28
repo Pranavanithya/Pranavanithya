@@ -20,9 +20,7 @@ AI • Machine Learning • Deep Learning • Generative AI
 
 ☁️ Learning AWS Cloud, MLOps and scalable AI deployment.
 
-🔬 Interested in Computer Vision, Explainable AI and Responsible AI.
-
-🚀 Always building projects that solve real-world problems.
+🚀 Building projects that solve real-world problems.
 
 ---
 
@@ -32,7 +30,7 @@ AI • Machine Learning • Deep Learning • Generative AI
 - 🧠 Large Language Models (LLMs)
 - ✨ Generative AI
 - 🔍 Retrieval-Augmented Generation (RAG)
-- ☁️ AWS SageMaker
+- ☁️ AWS AI services
 - 📦 MLOps
 
 ---
@@ -63,12 +61,6 @@ AI • Machine Learning • Deep Learning • Generative AI
 🎯 **Career Guidance Application**
 - Machine Learning based career prediction
 - Flutter + FastAPI + Firebase
-
-☁️ **AWS AI Deployment**
-- Amazon SageMaker
-- EC2
-- Lambda
-- S3
 
 ---
 
@@ -101,26 +93,10 @@ AI • Machine Learning • Deep Learning • Generative AI
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Pranavanithya_2006/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://leetcode.com/u/Pranavanithya_2006/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
 <a href="mailto:pranavanithyatamilselvan@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
-
----
-
-## 📈 LeetCode Stats
-
-<p align="center">
-<img src="[https://leetcard.jacoblin.cool/Pranavanithya_2006](https://leetcode.com/u/Pranavanithya_2006/)?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
 ---
